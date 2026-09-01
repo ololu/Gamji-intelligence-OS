@@ -1,0 +1,6 @@
+{
+  "name": "Gamji Intelligence OS",
+  "description": "Nigeria's AI-powered knowledge, mining, education & opportunity intelligence autonomous newsletter platform for Gamji Mines & Educational Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
